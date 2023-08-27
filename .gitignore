@@ -1,0 +1,24 @@
+# Node.js / NPM
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Cypress
+cypress/screenshots/
+cypress/videos/
+cypress/fixtures/
+
+# Environment-specific files
+cypress.env.json
+
+# Logs and runtime data
+cypress*.xml
+cypress*.log
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Miscellaneous
+.DS_Store
+Thumbs.db
